@@ -202,3 +202,9 @@ You are working with smaller datasets or in scenarios where memory overhead is l
 Both data structures have their strengths, and understanding their internal implementation helps in choosing the best option for a given use case. Tuples offer speed and memory efficiency, while lists provide flexibility and ease of modification.
 
 
+### References
+[Stackoverflow: Are tuples more efficient than lists in Python?](https://stackoverflow.com/questions/68630/are-tuples-more-efficient-than-lists-in-python/22140115#22140115)
+
+[Code Source Cpython Tuple](https://github.com/python/cpython/blob/main/Objects/tupleobject.c)
+
+[Code Source Cpython List](https://github.com/python/cpython/blob/main/Objects/listobject.c)
